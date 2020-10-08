@@ -1,4 +1,4 @@
-
+![Kayak][logo]
 [logo]: https://github.com/hichoe95/RRT-Rapidly-Exploring-Random-Trees-/blob/main/rrt1.png?raw=true  
 
 ### Reference
